@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_03Painter_autogen",
+	"CMAKE_BINARY_DIR" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/QT_practice/ThreeDay_03Painter",
+	"CMAKE_SOURCE_DIR" : "F:/QT_practice/ThreeDay_03Painter",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_03Painter_autogen/include",
+	"INPUTS" : 
+	[
+		"F:/QT_practice/ThreeDay_03Painter/Picture/4ec2d5628535e5dddaccacbe79c6a7efcf1b62ea.webp",
+		"F:/QT_practice/ThreeDay_03Painter/Picture/933051D49C1B2011C0134CEDFE075A20.jpg",
+		"F:/QT_practice/ThreeDay_03Painter/Picture/QQ??20240327194625.jpg",
+		"F:/QT_practice/ThreeDay_03Painter/Picture/881913BC0AE14C0801712E5500A580EF.jpg",
+		"F:/QT_practice/ThreeDay_03Painter/Picture/4595847B444E9596A393E9EA605CF781.png"
+	],
+	"LOCK_FILE" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/ThreeDay_03Painter_autogen.dir/AutoRcc_res_PVQXEUWZVR_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "PVQXEUWZVR",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "F:/QT/5.15.2/msvc2019_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/QT_practice/ThreeDay_03Painter/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/ThreeDay_03Painter_autogen.dir/AutoRcc_res_PVQXEUWZVR_Used.txt",
+	"SOURCE" : "F:/QT_practice/ThreeDay_03Painter/Picture/res.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

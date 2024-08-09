@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c01141456c370191b80c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "THREE_01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "THREE_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-THREE_01-Debug-2d7b1965c28abacafe11.json",
+					"name" : "THREE_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "THREE_01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-THREE_01_autogen-Debug-afb0d5087bf0dfbe4bf9.json",
+					"name" : "THREE_01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "THREE_01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-THREE_01_autogen_timestamp_deps-Debug-b2707fe46996c221527f.json",
+					"name" : "THREE_01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/QT_practice/THREE_01/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "F:/QT_practice/THREE_01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

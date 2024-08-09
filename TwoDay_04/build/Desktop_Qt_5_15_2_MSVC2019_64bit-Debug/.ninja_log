@@ -1,0 +1,9 @@
+# ninja log v5
+10	100	7440091164957484	TwoDay_04_autogen/timestamp	758b8f66fde8012
+10	100	7440091164957484	TwoDay_04_autogen/mocs_compilation.cpp	758b8f66fde8012
+10	100	7440091164957484	F:/QT_practice/TwoDay_04/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_04_autogen/timestamp	758b8f66fde8012
+150	733	7439605438192009	CMakeFiles/TwoDay_04.dir/TwoDay_04_autogen/mocs_compilation.cpp.obj	16b837fb9db9f931
+10	100	7440091164957484	F:/QT_practice/TwoDay_04/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_04_autogen/mocs_compilation.cpp	758b8f66fde8012
+153	788	7439605438742003	CMakeFiles/TwoDay_04.dir/main.cpp.obj	eff40338e75c44a1
+102	1032	7440091175714610	CMakeFiles/TwoDay_04.dir/mainwindow.cpp.obj	591cc5d45d1a1050
+1032	1159	7440091176744808	TwoDay_04.exe	57bc81767956ccd6

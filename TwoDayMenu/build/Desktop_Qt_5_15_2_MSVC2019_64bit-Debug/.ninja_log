@@ -1,0 +1,21 @@
+# ninja log v5
+32	157	7439379308111128	TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+32	157	7439379308111128	TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+1927	2294	7439379331475359	TwoDayMenu.exe	abaaf2d9697f6b10
+171	922	7439344530946820	CMakeFiles/TwoDayMenu.dir/TwoDayMenu_autogen/mocs_compilation.cpp.obj	4793caf7a2d51599
+32	157	7439379308111128	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+32	157	7439379308111128	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+174	989	7439344531616800	CMakeFiles/TwoDayMenu.dir/main.cpp.obj	3e78daac609f50ac
+160	1927	7439379328385388	CMakeFiles/TwoDayMenu.dir/mainwindow.cpp.obj	174bc42e3f183c6b
+32	183	7439379855688658	TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+32	183	7439379855688658	TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+32	183	7439379855688658	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+32	183	7439379855688658	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+186	1997	7439379876232175	CMakeFiles/TwoDayMenu.dir/mainwindow.cpp.obj	174bc42e3f183c6b
+1997	2331	7439379878902199	TwoDayMenu.exe	abaaf2d9697f6b10
+32	162	7439381048901411	TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+32	162	7439381048901411	TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+32	162	7439381048901411	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/timestamp	859ed4f3c1c28fd2
+32	162	7439381048901411	F:/QT_practice/TwoDayMenu/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDayMenu_autogen/mocs_compilation.cpp	859ed4f3c1c28fd2
+165	1906	7439381068456275	CMakeFiles/TwoDayMenu.dir/mainwindow.cpp.obj	174bc42e3f183c6b
+1906	2163	7439381070456245	TwoDayMenu.exe	abaaf2d9697f6b10

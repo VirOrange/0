@@ -1,0 +1,15 @@
+# ninja log v5
+19	122	7446526510568319	TwoDay_QTEvent02_autogen/mocs_compilation.cpp	da22bfaf00627052
+19	122	7446526510568319	TwoDay_QTEvent02_autogen/timestamp	da22bfaf00627052
+19	122	7446526510568319	F:/QT_practice/TwoDay_QTEvent02/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_QTEvent02_autogen/timestamp	da22bfaf00627052
+864	1060	7446526521297997	TwoDay_QTEvent02.exe	57404fa1b09fc8a9
+19	122	7446526510568319	F:/QT_practice/TwoDay_QTEvent02/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_QTEvent02_autogen/mocs_compilation.cpp	da22bfaf00627052
+210	1047	7446524002638506	CMakeFiles/TwoDay_QTEvent02.dir/TwoDay_QTEvent02_autogen/mocs_compilation.cpp.obj	af5755b94f0cbb32
+125	864	7446526519688626	CMakeFiles/TwoDay_QTEvent02.dir/widget.cpp.obj	ed1a8327686fa194
+212	1096	7446524003118238	CMakeFiles/TwoDay_QTEvent02.dir/main.cpp.obj	b5c029c3ae5173cd
+33	196	7446530740230458	TwoDay_QTEvent02_autogen/timestamp	da22bfaf00627052
+33	196	7446530740230458	TwoDay_QTEvent02_autogen/mocs_compilation.cpp	da22bfaf00627052
+33	196	7446530740230458	F:/QT_practice/TwoDay_QTEvent02/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_QTEvent02_autogen/timestamp	da22bfaf00627052
+33	196	7446530740230458	F:/QT_practice/TwoDay_QTEvent02/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/TwoDay_QTEvent02_autogen/mocs_compilation.cpp	da22bfaf00627052
+199	957	7446530750606972	CMakeFiles/TwoDay_QTEvent02.dir/widget.cpp.obj	ed1a8327686fa194
+957	1149	7446530752216972	TwoDay_QTEvent02.exe	57404fa1b09fc8a9

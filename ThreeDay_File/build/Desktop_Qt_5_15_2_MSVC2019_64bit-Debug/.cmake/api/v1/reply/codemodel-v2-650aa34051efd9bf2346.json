@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-14313392c5fe6d7cdad3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThreeDay_File",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_File::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_File-Debug-aeadf3578bf6b5331d35.json",
+					"name" : "ThreeDay_File",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_File_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_File_autogen-Debug-debf67a367fda3cc590b.json",
+					"name" : "ThreeDay_File_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_File_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_File_autogen_timestamp_deps-Debug-22c4182adac8cd5601f0.json",
+					"name" : "ThreeDay_File_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/QT_practice/ThreeDay_File/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "F:/QT_practice/ThreeDay_File"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

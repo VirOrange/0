@@ -1,0 +1,9 @@
+# ninja log v6
+15	306	7443065613931362	My_Test_autogen/timestamp	5d6cd00837d8c100
+15	306	7443065613931362	My_Test_autogen/mocs_compilation.cpp	5d6cd00837d8c100
+15	306	7443065613931362	F:/QT_practice/My_Test/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/My_Test_autogen/timestamp	5d6cd00837d8c100
+15	306	7443065613931362	F:/QT_practice/My_Test/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/My_Test_autogen/mocs_compilation.cpp	5d6cd00837d8c100
+309	1594	7443065614312184	CMakeFiles/My_Test.dir/My_Test_autogen/mocs_compilation.cpp.obj	d57c860a3ef83a9d
+313	1598	7443065614341509	CMakeFiles/My_Test.dir/widget.cpp.obj	ac0bd9c5dea6490c
+311	1599	7443065614331735	CMakeFiles/My_Test.dir/main.cpp.obj	8d35aed446918b96
+1599	1943	7443065627201173	My_Test.exe	7fc5d388c0e65688

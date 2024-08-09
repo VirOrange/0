@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>4ec2d5628535e5dddaccacbe79c6a7efcf1b62ea.webp</file>
+        <file>881913BC0AE14C0801712E5500A580EF.jpg</file>
+        <file>933051D49C1B2011C0134CEDFE075A20.jpg</file>
+        <file>4595847B444E9596A393E9EA605CF781.png</file>
+        <file>QQ图片20240327194625.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2"/>
+</RCC>

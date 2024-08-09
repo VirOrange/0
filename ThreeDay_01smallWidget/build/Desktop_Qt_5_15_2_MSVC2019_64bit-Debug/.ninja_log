@@ -1,0 +1,19 @@
+# ninja log v5
+16	112	7440940336685567	ThreeDay_01smallWidget_autogen/mocs_compilation.cpp	1aae05ae38623903
+16	112	7440940336685567	ThreeDay_01smallWidget_autogen/timestamp	1aae05ae38623903
+116	1064	7440940347816699	CMakeFiles/ThreeDay_01smallWidget.dir/smallwidget.cpp.obj	5b4934f4e1aaf097
+172	1358	7440924722924103	CMakeFiles/ThreeDay_01smallWidget.dir/main.cpp.obj	9362e38cbd517f84
+16	112	7440940336685567	F:/QT_practice/ThreeDay_01smallWidget/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_01smallWidget_autogen/timestamp	1aae05ae38623903
+87	1237	7440939715426040	CMakeFiles/ThreeDay_01smallWidget.dir/widget.cpp.obj	55eaacadee811195
+16	112	7440940336685567	F:/QT_practice/ThreeDay_01smallWidget/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_01smallWidget_autogen/mocs_compilation.cpp	1aae05ae38623903
+169	1360	7440924722924103	CMakeFiles/ThreeDay_01smallWidget.dir/ThreeDay_01smallWidget_autogen/mocs_compilation.cpp.obj	9064929be56be183
+1242	1410	7440939716876244	ThreeDay_01smallWidget.exe	ca9a84d216f89f91
+19	1338	7440940476008080	CMakeFiles/ThreeDay_01smallWidget.dir/widget.cpp.obj	55eaacadee811195
+1339	1487	7440940477248032	ThreeDay_01smallWidget.exe	ca9a84d216f89f91
+33	128	7440951162018713	ThreeDay_01smallWidget_autogen/timestamp	1aae05ae38623903
+33	128	7440951162018713	ThreeDay_01smallWidget_autogen/mocs_compilation.cpp	1aae05ae38623903
+33	128	7440951162018713	F:/QT_practice/ThreeDay_01smallWidget/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_01smallWidget_autogen/timestamp	1aae05ae38623903
+33	128	7440951162018713	F:/QT_practice/ThreeDay_01smallWidget/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_01smallWidget_autogen/mocs_compilation.cpp	1aae05ae38623903
+130	1178	7446502342446606	CMakeFiles/ThreeDay_01smallWidget.dir/ThreeDay_01smallWidget_autogen/mocs_compilation.cpp.obj	9064929be56be183
+132	1242	7446502343086594	CMakeFiles/ThreeDay_01smallWidget.dir/main.cpp.obj	9362e38cbd517f84
+137	1301	7446502343687641	CMakeFiles/ThreeDay_01smallWidget.dir/smallwidget.cpp.obj	5b4934f4e1aaf097

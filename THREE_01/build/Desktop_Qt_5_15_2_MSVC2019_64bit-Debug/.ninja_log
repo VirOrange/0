@@ -1,0 +1,9 @@
+# ninja log v5
+2	152	7446504672190890	THREE_01_autogen/timestamp	a05b9ab61855c8b1
+2	152	7446504672190890	THREE_01_autogen/mocs_compilation.cpp	a05b9ab61855c8b1
+2	152	7446504672190890	F:/QT_practice/THREE_01/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/THREE_01_autogen/timestamp	a05b9ab61855c8b1
+2	152	7446504672190890	F:/QT_practice/THREE_01/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/THREE_01_autogen/mocs_compilation.cpp	a05b9ab61855c8b1
+153	754	7446504678486782	CMakeFiles/THREE_01.dir/THREE_01_autogen/mocs_compilation.cpp.obj	58acf95c8e9af3b
+156	817	7446504679126760	CMakeFiles/THREE_01.dir/main.cpp.obj	4ad14bda3178ca73
+158	823	7446504679156796	CMakeFiles/THREE_01.dir/dialog.cpp.obj	657ae0b1f6f10f81
+823	1085	7446504681633943	THREE_01.exe	d84d8763790f4f3e

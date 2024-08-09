@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-476f7ece039f08fcd32b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThreeDay_02QtEvent",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_02QtEvent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_02QtEvent-Debug-5b5d11d657c6dc15368d.json",
+					"name" : "ThreeDay_02QtEvent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_02QtEvent_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_02QtEvent_autogen-Debug-63d405abb1eeb270c696.json",
+					"name" : "ThreeDay_02QtEvent_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreeDay_02QtEvent_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreeDay_02QtEvent_autogen_timestamp_deps-Debug-19c4e781612dd2372d04.json",
+					"name" : "ThreeDay_02QtEvent_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/QT_practice/ThreeDay_02QtEvent/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "F:/QT_practice/ThreeDay_02QtEvent"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

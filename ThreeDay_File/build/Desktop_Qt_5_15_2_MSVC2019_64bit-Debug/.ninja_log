@@ -1,0 +1,15 @@
+# ninja log v5
+29	160	7447408122422204	ThreeDay_File_autogen/timestamp	9c5d7172fe79bc81
+29	160	7447408122422204	ThreeDay_File_autogen/mocs_compilation.cpp	9c5d7172fe79bc81
+161	1043	7447380260275821	CMakeFiles/ThreeDay_File.dir/main.cpp.obj	902755865ee819c7
+29	160	7447408122422204	F:/QT_practice/ThreeDay_File/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_File_autogen/timestamp	9c5d7172fe79bc81
+29	160	7447408122422204	F:/QT_practice/ThreeDay_File/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_File_autogen/mocs_compilation.cpp	9c5d7172fe79bc81
+1939	2200	7447408144882391	ThreeDay_File.exe	23a93be1073e0c64
+163	1939	7447408142692409	CMakeFiles/ThreeDay_File.dir/widget.cpp.obj	1e0c125cef1c145e
+159	895	7447380258775795	CMakeFiles/ThreeDay_File.dir/ThreeDay_File_autogen/mocs_compilation.cpp.obj	6a6982dc0c37b020
+35	173	7447408343942227	ThreeDay_File_autogen/timestamp	9c5d7172fe79bc81
+35	173	7447408343942227	ThreeDay_File_autogen/mocs_compilation.cpp	9c5d7172fe79bc81
+35	173	7447408343942227	F:/QT_practice/ThreeDay_File/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_File_autogen/timestamp	9c5d7172fe79bc81
+35	173	7447408343942227	F:/QT_practice/ThreeDay_File/build/Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/ThreeDay_File_autogen/mocs_compilation.cpp	9c5d7172fe79bc81
+180	2009	7447408375273841	CMakeFiles/ThreeDay_File.dir/widget.cpp.obj	1e0c125cef1c145e
+2009	2225	7447408377074181	ThreeDay_File.exe	23a93be1073e0c64
